@@ -1,2 +1,7 @@
-IMG_20231108_102615_630.jpg
+<script>
+const images = [
+  "IMG_20231108_102615_630.jpg"
+];
+</script>
+
 
