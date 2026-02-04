@@ -1,1 +1,6 @@
-IMG-20220522-WA0004.jpg
+<script>
+const images = [
+  "images/IMG_20231108_102615_630.jpg"
+];
+</script>
+
