@@ -1,1 +1,5 @@
-
+<script>
+const images = [
+  "photo_2026-02-02_17-04-56.jpg"
+];
+</script>
